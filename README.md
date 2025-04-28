@@ -1,11 +1,14 @@
-![DSA-JS-](./assets/banner.png)
+<p align="center">
+<img src="./assets/banner.png" alt="DSA-JS">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-100%25-yellow" alt="JavaScript">
+<img src="https://img.shields.io/badge/Estatus-En%20progreso-yellow" alt="Estatus">
+<img src="https://img.shields.io/badge/Actualizado-Abril%202025-blue" alt="Actualizado">
+<img src="https://img.shields.io/badge/license-MIT-green" alt="Licencia">
+</p>
 
 # 🧠 Aprende a resolver entrevistas de DSA paso a paso con JavaScript
-
-![Estatus](https://img.shields.io/badge/Estatus-En%20progreso-yellow)
-![Actualizado](https://img.shields.io/badge/Actualizado-Abril%202025-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)
-![Licencia](https://img.shields.io/badge/license-MIT-green)
 
 ¿Estás preparándote para entrevistas técnicas y no sabes por dónde empezar con estructuras de datos y algoritmos?
 
