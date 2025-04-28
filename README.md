@@ -1,4 +1,11 @@
+![DSA-JS-](./assets/banner.png)
+
 # 🧠 Aprende a resolver entrevistas de DSA paso a paso con JavaScript
+
+![Estatus](https://img.shields.io/badge/Estatus-En%20progreso-yellow)
+![Actualizado](https://img.shields.io/badge/Actualizado-Abril%202025-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)
+![Licencia](https://img.shields.io/badge/license-MIT-green)
 
 ¿Estás preparándote para entrevistas técnicas y no sabes por dónde empezar con estructuras de datos y algoritmos?
 
@@ -12,10 +19,10 @@ Este repositorio es una guía práctica para **aprender DSA paso a paso** con:
 ## 🚀 ¿Qué vas a encontrar?
 
 - 🧠 **Conceptos clave de estructuras de datos y algoritmos**  
-  Explicados desde lo más básico hasta lo avanzado.
+  Para que aprendas en días, no meses.
 
 - 🧪 **Ejercicios prácticos**  
-  Cada reto tiene su propio entorno preconfigurado.
+  Cada reto tiene su propio entorno preconfigurado para practicar.
 
 - 🔗 **Enlaces a CodeSandbox**  
   Practica desde el navegador. Sin instalaciones. Todo listo para resolver el reto.
@@ -23,19 +30,24 @@ Este repositorio es una guía práctica para **aprender DSA paso a paso** con:
 ## 📘 ¿Por qué usar JavaScript?
 
 Porque es uno de los lenguajes más accesibles y populares en la industria.  
-Pero no te preocupes: **los conceptos son transferibles** a cualquier otro lenguaje a su resectiva implementación.
+Pero no te preocupes: **los conceptos son transferibles** a cualquier otro lenguaje a su respectiva implementación.
 
 > Si trabajas con Python, Java o C++, lo que aprendas aquí te será igualmente útil.
 
+Además, hace más accesible la práctica de algoritmos y estructuras de datos en un entorno como codeSandbox, donde puedes ejecutar y probar tu código sin complicaciones.
+
 ## 🧩 ¿Qué incluye el catálogo?
 
-Estructuras de datos y técnicas esenciales para entrevistas:
+Las estructuras de datos y algoritmos más importantes que te ayudarán a resolver la mayoría de los retos en entrevistas técnicas con el menor esfuerzo y tiempo posible.
 
 Estructuras de datos:
 
 - [x] HashMap
-- [ ] Linked Lists
-- [ ] Stack & Queue
+- [ ] Arreglos
+- [ ] Strings
+- [ ] Listas enlazadas
+- [ ] Pilas
+- [ ] Colas
 - [ ] Árboles binarios
 - [ ] Grafos
 
@@ -48,7 +60,7 @@ Algoritmos:
 
 > 📌 Este repositorio se actualiza cada semana con nuevos ejercicios y artículos.
 
-¿No quieres perderte nada? entonces dale ⭐️ a este repositorio y sígueme en [LinkedIn](https://www.linkedin.com/in/juancorreaherrera/) para recibir actualizaciones.
+¿No quieres perderte nada? Entonces, dale ⭐️ a este repositorio y sígueme en [LinkedIn](https://www.linkedin.com/in/juancorreaherrera/) para recibir actualizaciones.
 
 ## 🧠 ¿Cómo están organizados los ejercicios?
 
@@ -66,11 +78,11 @@ Aprende cómo funciona HashMap, sus ventajas y cómo aplicarlo paso a paso en en
 
 📘 Aprende más: [Qué es un HashMap y ejemplos en JavaScript →](https://developero.io/blog/algoritmos-y-estructuras-de-datos/hashmap-javascript-ejemplos?utm_source=github&utm_medium=repo&utm_campaign=dsa_catalog&utm_content=hashmap)
 
-| 💡 Ejercicio             | 🎯 Dificultad | 📖 Explicación       | 🧪 Practicar     |
-| ------------------------ | ------------- | -------------------- | ---------------- |
-| ¿Es anagrama?            | Fácil         | [Ver explicación](#) | [CodeSandbox](#) |
-| [Título del ejercicio 2] | Medio         | [Ver explicación](#) | [CodeSandbox](#) |
-| [Título del ejercicio 3] | Difícil       | [Ver explicación](#) | [CodeSandbox](#) |
+| 💡 Ejercicio             | 🎯 Dificultad | 📖 Explicación                      | 🧪 Practicar                   |
+| ------------------------ | ------------- | ----------------------------------- | ------------------------------ |
+| ¿Es anagrama?            | Fácil         | [Ver explicación](#)                | [CodeSandbox](#)               |
+| [Título del ejercicio 2] | Medio         | [🚧 Explicación en construcción](#) | [🚧 Sandbox en preparación](#) |
+| [Título del ejercicio 3] | Difícil       | [🚧 Explicación en construcción](#) | [🚧 Sandbox en preparación](#) |
 
 ## 🌍 ¿Por qué el código está en inglés?
 
@@ -102,3 +114,7 @@ Puedes:
 
 - Abrir un issue
 - O seguirme en [LinkedIn](https://www.linkedin.com/in/juancorreaherrera/)
+
+## 🚀 ¿Te ha sido útil este proyecto?
+
+Apóyalo con un ⭐️, compártelo con quien esté preparándose para entrevistas, y acompáñame en [LinkedIn](https://www.linkedin.com/in/juancorreaherrera/) para seguir creciendo juntos como developers hispanohablantes. Recuerda que la comunidad la construimos entre todos 🔥
