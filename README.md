@@ -8,16 +8,19 @@
 <img src="https://img.shields.io/badge/license-MIT-green" alt="Licencia">
 </p>
 
-# 🧠 Aprende a resolver entrevistas de DSA paso a paso con JavaScript
+# Aprende a Resolver Entrevistas Técnicas de DSA con JavaScript en Días, No en Meses
 
 ¿Estás preparándote para entrevistas técnicas y no sabes por dónde empezar con estructuras de datos y algoritmos?
 
-Este repositorio es una guía práctica para **aprender DSA paso a paso** con:
+Este repositorio es una guía práctica que te enseña a dominar las estructuras de datos y algoritmos más importantes para entrevistas, de forma clara, enfocada y sin perder meses.
 
-- ✅ Ejemplos en **JavaScript**
-- ✅ Explicaciones **claras y en español**
-- ✅ Ejercicios guiados
-- ✅ Retos listos para resolver en **CodeSandbox**
+Con este proyecto vas a encontrar:
+
+- ✅ **Aprende el 20% que resuelve el 80% de los problemas reales.**
+- ✅ **Ejemplos claros en JavaScript, el lenguaje más accesible de la industria.**
+- ✅ **Explicaciones simples en español**, pensadas para developers de habla hispana.
+- ✅ **Ejercicios guiados** que no te dejan solo intentando adivinar.
+- ✅ **Retos prácticos listos para resolver directamente en CodeSandbox.**
 
 ## 🚀 ¿Qué vas a encontrar?
 
